@@ -12,6 +12,4 @@ Completed:
 
 ![Video Walkthrough](tip_calculator.gif)
 
-![Video Walkthrough](tip_calculator.gif)
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
