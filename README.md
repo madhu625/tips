@@ -6,10 +6,12 @@ Time spent: 6hrs
 
 Completed:
 
-* [] Required: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [] Required: Settings page to change the default tip percentage.
-* [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Required: User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Required: Settings page to change the default tip percentage.
+* [x] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-![tip_calculator.gif]
+![Video Walkthrough](tip_calculator.gif)
 
-Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
+![Video Walkthrough](tip_calculator.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/)
