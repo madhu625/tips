@@ -10,6 +10,6 @@ Completed:
 * [] Required: Settings page to change the default tip percentage.
 * [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-![Video Walkthrough](name of your gif file.gif)
+![tip_calculator.gif]
 
 Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
